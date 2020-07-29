@@ -1,0 +1,15 @@
+2413 Arkanoid 11
+
+Another Canvas will need two methods, write them.
+a) clear () method
+This method will clear the matrix so that you can draw on it again.
+You can simply reinitialize the matrix with an empty array of the correct dimension.
+b) print () method
+This method draws a matrix on the screen.
+Here you have to figure it out yourself: displaying a character set is not so difficult.
+
+Requirements:
+1. In the Canvas class, the void clear () method must be created without parameters.
+2. The void print () method with no parameters must be created in the Canvas class.
+3. The clear method should clear the matrix array.
+4. The print method should display the contents of the matrix array.
